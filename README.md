@@ -1,10 +1,7 @@
 # Author Ayan_Imran
-# GitHub-Email:
-# (ayanimranayanimran6786@gmail.com)
-# GitHub-User-Name:
-# AyanImranAYANIMRAN
-# GitHub-Repostory:
-# AyanImranAYANIMRAN-Muhammad_Ayan
-# This Is MY First Assignment Of Web Development Course
 # First Assignment Link 
 # (https://clinquant-duckanoo-add1ec.netlify.app)
+# Second Assignment Link 
+# (https://amazing-moxie-c0263f.netlify.app)
+# Third Assignment Link 
+# (https://dapper-zabaione-7ac7e6.netlify.app)
